@@ -1,0 +1,9 @@
+.jumbotron h1 {
+  font-weight: bold;
+}
+.well h2 {
+  font-style: italic;
+}
+.jumbotron p {
+    color: blue;
+}
