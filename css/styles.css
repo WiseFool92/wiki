@@ -3,7 +3,7 @@
 .meat {margin-left: 25%;}
 .row {font-family: cursive;}
 .row .potato {position: relative;
-  bottom: 1500px;
+  bottom: 1229px;
   left: 100%;
 }
-.row .meat{width: 50%; margin-bottom: 50%;}
+.row .meat{position: relative; bottom: 1500px;height:100px;}
